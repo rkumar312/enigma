@@ -3,7 +3,7 @@ public class Enigma {
 
 
     //TODO
-    //plugboard function
+    // plugboard function
     // decryption algorithm
     // will require some work as the elimination of design flaws limits decryption techniques used by Allies
 
