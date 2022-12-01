@@ -9,7 +9,7 @@ public class Main {
         3. decryption algorithm (for enigma cipher, already implemented for RSA KeyGenerator)
         4. will require some work as  elimination of design flaws limits decryption techniques 
         */
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         Random rand = new Random();
         // call KeyGenerator invoker method, which will do the following:
             // 1. Call Enigma start method which performs Enigma encryption

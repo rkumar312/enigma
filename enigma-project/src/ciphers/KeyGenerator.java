@@ -125,7 +125,7 @@ public class KeyGenerator extends Enigma {
         gen.getPublic();
         gen.getPrivate();
 
-        // encrypt and decrypt the message using RSA algorithm
+        // encrypt and decrypt the message using RSA algorithm 
         gen.ciphertextMessage = gen.encrypt();
         System.out.println("After RSA Encryption: " + gen.ciphertextMessage);
         gen.ciphertextMessage = gen.decrypt();

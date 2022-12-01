@@ -115,7 +115,7 @@ public class Enigma {
     public int[] getSecond() {
         return second;
     }
-    // getter for third rotor
+    // getter for third rotor 
     public int[] getThird() {
         return third;
     }
